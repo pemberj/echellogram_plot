@@ -7,3 +7,6 @@ Dependencies:
 - `matplotlib`
 - `PyZDDE` (https://github.com/xzos/PyZDDE)
 - `PyEchelle` (https://gitlab.com/Stuermer/pyechelle)
+- For custom plot style only:
+  - `cycler`
+  - `palettable`
