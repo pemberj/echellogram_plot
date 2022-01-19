@@ -6,7 +6,7 @@ import pyzdde.zdde as pyz
 # Optional: plot style and font
 import matplotlib.font_manager as fm
 fm.FontManager.addfont(fm.fontManager, path="./Quicksand-Regular.ttf")
-from jakeStyle import plotStyle
+from plotStyle import plotStyle
 plt.style.use(plotStyle)
 
 
