@@ -8,7 +8,7 @@ fm.FontManager.addfont(fm.fontManager, path="./Quicksand-Regular.ttf")
 
 lw = 1.3
 
-jakeStyle = {
+plotStyle = {
     # Set font to the beautiful Quicksand:
     # https://github.com/andrew-paglinawan/QuicksandFamily
     "font.family" : "Quicksand",
