@@ -10,3 +10,7 @@ Dependencies:
 - For custom plot style only:
   - `cycler`
   - `palettable`
+
+Example plot generated using this script:
+
+![Example plot](https://github.com/pemberj/echellogram_plot/blob/main/example_echellogram_plot.png?raw=true)
